@@ -1,2 +1,6 @@
 .idea
 venv
+web_server/Lib/
+web_server/Scripts/
+web_server/__pycache__/
+web_server/pyvenv.cfg
